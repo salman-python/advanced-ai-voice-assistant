@@ -118,3 +118,18 @@ wake up	---> Activate assistant
 sleep ---->	Put assistant to sleep
 stop---->	Stop program completely
 Other commands	Handled by task system
+
+
+📜 License
+
+This project is intended for learning, experimentation, and personal use.
+
+
+## 👤 Author
+
+**Muhammad Salman Kazam**  
+Python Developer | AI & Automation Enthusiast  
+
+- GitHub: https://github.com/salman-python
+- Email: smpmine159@gmail.com
+
