@@ -43,17 +43,29 @@ This project demonstrates **real-time voice interaction**, **modular design**, a
 ## 📁 Project Structure
 
 ├── main.py # Core logic, wake word, idle handling
+
 ├── tasks.py # Command execution & automation logic
+
 ├── greetme.py # Startup greetings
+
 ├── chat.py # AI chat responses
+
 ├── api.py # API-based features
+
 ├── search.py # Web/search operations
+
 ├── weather.py # Weather information
+
 ├── test.py # Testing & experiments
+
 ├── requirements.txt # Dependencies
+
 ├── .env # API keys (ignored)
+
 ├── example.env # Sample environment variables
+
 ├── .venv/ # Virtual environment (ignored)
+
 └── pycache/ # Cache files (ignored)
 
 ---
