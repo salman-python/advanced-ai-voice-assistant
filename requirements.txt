@@ -1,0 +1,6 @@
+pyttsx3
+pyautogui
+requests
+SpeechRecognition
+google-generativeai
+python-dotenv
